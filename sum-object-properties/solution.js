@@ -1,3 +1,4 @@
+// Test case
 let salaries = {
     John: 100,
     Ann: 160,
