@@ -1,4 +1,4 @@
-Exercise 1: Hello, object
+<h2> Exercise 1: Hello, object </h2>
 Write the code, one line for each action:
 
 - Create an empty object user.
